@@ -1,6 +1,6 @@
 # slicefunk
 
-Providing some collection functions in go
+Providing some collection functions in Go.
 
 Example usage:
 ```
